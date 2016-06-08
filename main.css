@@ -1,0 +1,220 @@
+::-webkit-scrollbar
+{
+  width: 5px; 
+  height: 5px;
+}
+
+::-webkit-scrollbar-track
+{
+  background: rgba(0, 0, 0, 0.1);
+}
+
+::-webkit-scrollbar-thumb
+{
+  background: rgba(0, 0, 0, 0.3);
+}
+
+html{
+	overflow-y: scroll;
+}
+
+body{
+	background-color:#f6f6f6;
+	font-family: 'Roboto', sans-serif;
+	margin:0;
+	padding:0;
+	color:#333333;
+}
+
+ul{
+	list-style-type:none;
+	background-color:white;
+	width:800px;
+	margin:auto;
+}
+
+nav{
+	background-color:white;
+	width:100%;
+	position:fixed;
+	top:0px;
+}
+
+li img{
+	width:50px;
+	padding-bottom:10px;
+	padding-top:5px;
+	float:left;
+	position:relative;
+	left:-60px;
+}
+
+#menu a{
+	padding-top:5px;
+	float:right;
+}
+
+li a{
+	text-decoration:none;
+	color:gray;
+	padding-left:20px;
+}
+
+#top a:hover, li a:hover{
+	color:#008080;
+}
+
+li a:hover{
+	text-decoration:underline;
+}
+
+#images{
+	width:800px;
+	height:580px;
+	margin:auto;
+	padding-top:30px;
+}
+
+h1{
+	font-family: 'Roboto', sans-serif;
+	text-align:center;
+	color:white;
+	border-style:solid;
+	width:300px;
+	padding-top:30px;
+	padding-bottom:50px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:rgba(255, 255, 255, 0.3);
+}
+
+#top{
+	height:400px;
+	background-color:#737373;
+	padding-top:250px;
+	border-bottom:solid;
+	border-color:#008080;
+	background-image:url("images/pattern.svg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+}
+
+#top a{
+	font-style: italic;
+	text-decoration:none;
+	color:white;
+}
+
+#top p{
+	text-align:center;
+	color:white;
+	position:relative;
+	top:-70px;
+}
+
+#images img{
+	width:250px;
+	height:250px;
+}
+
+#app, #book, #game, #dcf, #mask, #sign{
+	height:250px;
+	width:250px;
+	float:left;
+	padding-right:10px;
+	padding-bottom:10px;
+}
+
+
+
+#images a{
+	text-decoration:none;
+	font-size:16pt;
+	color:white;
+	background-color:rgba(0, 102, 102, 0.5);
+	position:relative;
+	top:140px;
+	padding-top:115px;
+	padding-bottom:110px;
+	font-weight:bold;
+	opacity:0;
+}
+
+#app a{
+	padding-left:87px;
+	padding-right:86.5px;
+}
+
+
+
+#book a{
+	padding-left:7px;
+	padding-right:6.5px;
+}
+
+#game a{
+	padding-left:32px;
+	padding-right:31.7px;
+}
+
+#dcf a{
+	padding-left:38px;
+	padding-right:38px;
+}
+
+#mask a{
+	padding-left:44px;
+	padding-right:43.5px;
+}
+
+#sign a{
+	padding-left:73px;
+	padding-right:72.5px;
+}
+
+#images a:hover{
+	opacity:1;
+	transition: opacity .35s ease-in-out;
+   -moz-transition: opacity .35s ease-in-out;
+   -webkit-transition: opacity .35s ease-in-out;
+}
+
+#about{
+	width:800px;
+	height:500px;
+	margin:auto;
+	padding-top:130px;
+}
+
+#about img{
+	width:300px;
+	height:auto; 
+	float:left;
+	padding-top:75px;
+	padding-left:20px;
+}
+
+#aboutme{
+	padding-left:30px;
+	width:450px;
+	float:right;
+}
+
+#about h2, #pdf h2{
+	text-align:center;
+	text-decoration:underline;
+	padding-bottom:20px;
+}
+
+#about h3{
+	padding-top:30px;
+	text-align:center;
+}
+
+#pdf{
+	width:800px;
+	margin:auto;
+	padding-top:100px;
+	padding-bottom:50px;
+}
