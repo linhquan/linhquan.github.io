@@ -26,8 +26,6 @@ body{
 	color:#333333;
 }
 
-
-/* Navigation bar*/
 ul{
 	list-style-type:none;
 	background-color:white;
@@ -43,9 +41,9 @@ nav{
 }
 
 li img{
-	width:40px;
+	width:50px;
 	padding-bottom:10px;
-	padding-top:10px;
+	padding-top:5px;
 	float:left;
 	position:relative;
 	left:-60px;
@@ -58,20 +56,38 @@ li img{
 
 li a{
 	text-decoration:none;
-	color:#414042;
+	color:gray;
 	padding-left:20px;
 }
 
 #top a:hover, li a:hover{
-	color:#7876b7;
+	color:#008080;
 }
 
 li a:hover{
 	text-decoration:underline;
 }
 
+#images{
+	width:800px;
+	height:580px;
+	margin:auto;
+	padding-top:30px;
+}
 
-/* top half of page with the hello box */
+h1{
+	font-family: 'Roboto', sans-serif;
+	text-align:center;
+	color:white;
+	border-style:solid;
+	width:300px;
+	padding-top:30px;
+	padding-bottom:50px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:rgba(255, 255, 255, 0.3);
+}
+
 #top{
 	height:400px;
 	background-color:#737373;
@@ -97,35 +113,12 @@ li a:hover{
 	top:-70px;
 }
 
-h1{
-	font-family: 'Roboto', sans-serif;
-	text-align:center;
-	color:white;
-	border-style:solid;
-	width:300px;
-	padding-top:30px;
-	padding-bottom:50px;
-	margin-left:auto;
-	margin-right:auto;
-	background-color:rgba(255, 255, 255, 0.3);
-}
-
-
-/* Code for the square images at homepage */
-#images{
-	width:800px;
-	height:580px;
-	margin:auto;
-	padding-top:30px;
-}
-
-
 #images img{
 	width:250px;
 	height:250px;
 }
 
-#app, #book, #game, #careerfair, #mask, #asid{
+#app, #book, #game, #dcf, #mask, #sign{
 	height:250px;
 	width:250px;
 	float:left;
@@ -135,56 +128,24 @@ h1{
 
 
 
-/* breaking up asid's hover because the name is too long and the code doesn't work on it. */
-
-#app a, #book a, #game a, #careerfair a, #mask a{
+#images a{
 	text-decoration:none;
 	font-size:16pt;
 	color:white;
-	background-color:rgba(120, 118, 183, 0.5);
+	background-color:rgba(0, 102, 102, 0.5);
 	position:relative;
 	top:140px;
-	padding-top:112px;
+	padding-top:115px;
 	padding-bottom:110px;
 	font-weight:bold;
 	opacity:0;
 }
 
-#asid a{
-	text-decoration:none;
-	font-size:16pt;
-	color:white;
-	background-color:rgba(120, 118, 183, 0.7);
-	font-weight:bold;
-	position:relative;
-	top:140px;
-	text-align:center;
-	opacity:0;
-	padding-top:112px;
-	padding-bottom:110px;
-}
-
-#asidid{
-	position:absolute;
-	width:200px;
-	padding-top:25px;
-	right:20px;
-	
-}
-
-#images a:hover{
-	opacity:1;
-	transition: opacity .35s ease-in-out;
-   -moz-transition: opacity .35s ease-in-out;
-   -webkit-transition: opacity .35s ease-in-out;
-}
-
-
-/* Image hovers */
 #app a{
 	padding-left:87px;
 	padding-right:86.5px;
 }
+
 
 
 #book a{
@@ -199,25 +160,119 @@ h1{
 
 #careerfair a{
 	padding-left:38px;
-	padding-right:37px;
+	padding-right:38px;
 }
 
 #mask a{
 	padding-left:44px;
-	padding-right:43px;	
+	padding-right:43.5px;
 }
-
 
 #asid a{
-	padding-left:27px;
-	padding-right:26.5px;
+	padding-left:93px;
+	padding-right:92.5px;
+}
+
+#images a:hover{
+	opacity:1;
+	transition: opacity .35s ease-in-out;
+   -moz-transition: opacity .35s ease-in-out;
+   -webkit-transition: opacity .35s ease-in-out;
+}
+
+#about{
+	width:800px;
+	height:500px;
+	margin:auto;
+	padding-top:130px;
+}
+
+#about img{
+	width:300px;
+	height:auto; 
+	float:left;
+	padding-top:75px;
+	padding-left:20px;
+}
+
+#aboutme{
+	padding-left:30px;
+	width:450px;
+	float:right;
+}
+
+#about h2, #pdf h2{
+	text-align:center;
+	text-decoration:underline;
+	padding-bottom:20px;
 }
 
 
-/* CSS for Resume Page */
 #pdf{
 	width:800px;
 	margin:auto;
 	padding-top:100px;
 	padding-bottom:50px;
+}
+
+#portraits{
+	width:800px;
+	margin:auto;
+	padding-top:100px;
+	padding-bottom:50px;
+}
+
+#portraitfinal img{
+	width:220px;
+}
+
+#portraitsketches img{
+	width:200px;
+}
+
+#closeup img{
+	width:100px;
+}
+
+#portraitmockup img{
+	width:220px;
+}
+
+#careerfair{
+	width:800px;
+	margin:auto;
+	padding-top:100px;
+	padding-bottom:50px;
+}
+
+#careerfair h2{
+	text-align:center;
+	text-decoration:underline;
+}
+
+#careerfair h3{
+	padding-top:20px;
+}
+
+#theteam img{
+	width:500px;
+	margin-left:150px;
+}
+
+#graphicsteam img{
+	width:300px;
+	float:left;
+	padding-right:20px;
+}
+
+#branding img{
+	width:200px;
+}
+
+#mywork img{
+	width:200px;
+}
+
+#collaboration img{
+	width:200px;
 }
