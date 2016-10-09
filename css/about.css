@@ -1,0 +1,100 @@
+::-webkit-scrollbar
+{
+  width: 5px; 
+  height: 5px;
+}
+
+::-webkit-scrollbar-track
+{
+  background: rgba(0, 0, 0, 0.1);
+}
+
+::-webkit-scrollbar-thumb
+{
+  background: rgba(0, 0, 0, 0.3);
+}
+
+html{
+	overflow-y: scroll;
+}
+
+body{
+	background-color:#f6f6f6;
+	font-family: 'Roboto', sans-serif;
+	margin:0;
+	padding:0;
+	color:#333333;
+}
+
+
+/* Navigation bar*/
+ul{
+	list-style-type:none;
+	background-color:white;
+	width:850px;
+	margin:auto;
+}
+
+nav{
+	background-color:white;
+	width:100%;
+	position:fixed;
+	top:0px;
+}
+
+li img{
+	width:40px;
+	padding-bottom:10px;
+	padding-top:10px;
+	float:left;
+	position:relative;
+	left:-60px;
+}
+
+#menu a{
+	padding-top:5px;
+	float:right;
+}
+
+li a{
+	text-decoration:none;
+	color:#414042;
+	padding-left:20px;
+}
+
+#top a:hover, li a:hover{
+	color:#7876b7;
+}
+
+li a:hover{
+	text-decoration:underline;
+}
+
+
+/* About Page */
+#about{
+	width:800px;
+	height:500px;
+	margin:auto;
+	padding-top:130px;
+}
+
+#about img{
+	width:300px;
+	height:auto; 
+	float:left;
+	padding-top:12px;
+	padding-left:20px;
+}
+
+#aboutme{
+	padding-left:30px;
+	width:450px;
+	float:right;
+}
+
+#about h2, #pdf h2{
+	text-align:center;
+	text-decoration:underline;
+	padding-bottom:20px;
+}

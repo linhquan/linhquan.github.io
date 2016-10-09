@@ -1,0 +1,267 @@
+::-webkit-scrollbar
+{
+  width: 5px; 
+  height: 5px;
+}
+
+::-webkit-scrollbar-track
+{
+  background: rgba(0, 0, 0, 0.1);
+}
+
+::-webkit-scrollbar-thumb
+{
+  background: rgba(0, 0, 0, 0.3);
+}
+
+html{
+	overflow-y: scroll;
+}
+
+body{
+	background-color:#f6f6f6;
+	font-family: 'Roboto', sans-serif;
+	margin:0;
+	padding:0;
+	color:#333333;
+}
+
+
+/* Navigation bar*/
+ul{
+	list-style-type:none;
+	background-color:white;
+	width:850px;
+	margin:auto;
+}
+
+nav{
+	background-color:white;
+	width:100%;
+	position:fixed;
+	top:0px;
+}
+
+li img{
+	width:40px;
+	padding-bottom:10px;
+	padding-top:10px;
+	float:left;
+	position:relative;
+	left:-60px;
+}
+
+#menu a{
+	padding-top:5px;
+	float:right;
+}
+
+li a{
+	text-decoration:none;
+	color:#414042;
+	padding-left:20px;
+}
+
+#top a:hover, li a:hover{
+	color:#7876b7;
+}
+
+li a:hover{
+	text-decoration:underline;
+}
+
+
+
+#portraits{
+	padding-top:100px;
+}
+
+h2{
+	font-size:30px;
+}
+
+h3{
+	font-size:20px;
+}
+
+p{
+	font-size:14px;
+}
+
+
+/* Final Portraits */
+
+#portraits{
+	width:800px;
+	margin:auto;
+}
+
+#portraitfinal{
+	width:680px;
+	margin:auto;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+#portraitfinal img{
+	width:200px;
+	height:auto;
+	padding-right:20px;
+}
+
+
+/* Board Style */
+
+#portraitboard{
+	width:430px;
+	padding-bottom:50px;
+	position:relative;
+	top:-150px;
+}
+
+#board1{
+	width:270px;
+	height:auto;
+	float:right;
+	padding-top:0px;
+}
+
+#board1 img, #board2 img{
+	width:270px;
+}
+
+#board2{
+	width:270px;
+	position:relative;
+	left:450px;
+	top:200px;
+}
+
+/* Sketches */
+
+#portraitsketchesimages{
+	width:570px;
+	float:right;
+	margin-right:-20px;
+	padding-top:50px;
+}
+
+#portraitsketchesimages p{
+	padding-top:30px;
+}
+
+#portraitsketchesimages img{
+	float:left;
+	padding-left:15px;
+	padding-bottom:15px;
+}
+
+
+#hsketch img{
+	height:150px;
+	width:auto;
+}
+
+#vsketch img{
+	height:150px;
+}
+
+#portraitsketches p{
+	width:290px;
+	padding-top:30px;
+}
+
+#portraitsketches img{
+	height:200px;
+	float:right;
+	padding-right:38px;
+}
+
+#sketch2images{
+	width:600px;
+	padding-top:120px;
+	padding-left:200px;
+	
+}
+
+#sketch2images img{
+	height:150px;
+	float:right;
+	padding:10px;
+}
+
+#sketch2 p{
+	width:290px;
+	padding-top:30px;
+	
+}
+
+#closeupimage{
+	width:600px;
+}
+
+#close1{
+	padding-top:100px;
+	padding-left:180px;
+	float::left;
+}
+
+#close1 img{
+	height:300px;
+}
+
+#close2{
+	width:400px;
+	position:relative;
+	top:-315px;
+	left:420px;
+}
+
+#close2 img{
+	height:140px;
+	float:left;
+	padding-right:10px;
+	padding-bottom:10px;
+}
+
+#closeup{
+	width:190px;
+	position:relative;
+	top:-620px;
+}	
+
+#portraitmockup{
+	margin-top:-600px;
+}
+
+#portraitmockup h3{
+	position:relative;
+	left:-370px;
+}
+
+#mock2 img, #mock3 img{
+	width:300px;
+	float:left;
+	
+}
+
+#mock1 img{
+	width:300px;
+}
+
+#mock1{
+	position:relative;
+	left:-435px;
+
+}
+
+#mock2, #mock3{
+	position:relative;
+	top:-354px;
+	left:200px;
+}
+
+#portraitmockup p{
+	width:600px;
+	position:relative;
+	top:-300px;
+}
