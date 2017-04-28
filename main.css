@@ -1,6 +1,6 @@
 ::-webkit-scrollbar
 {
-  width: 5px; 
+  width: 5px;
   height: 5px;
 }
 
@@ -28,11 +28,16 @@ body{
 
 
 /* Navigation bar*/
+#menutotal{
+  width:850px;
+	margin:auto;
+}
+
 ul{
 	list-style-type:none;
-	background-color:white;
-	width:850px;
-	margin:auto;
+  position:relative;
+  top:-15px;
+  padding-right:50px;
 }
 
 nav{
@@ -42,18 +47,25 @@ nav{
 	top:0px;
 }
 
-li img{
-	width:40px;
+#logo{
+	height:17px;
 	padding-bottom:10px;
-	padding-top:10px;
-	float:left;
-	position:relative;
-	left:-60px;
+	padding-top:15px;
+	position: relative;
+  left:50px;
 }
 
-#menu a{
-	padding-top:5px;
-	float:right;
+#menu{
+	padding-top:13px;
+  position:absolute;
+  right:50px;
+  height:30px;
+}
+
+li{
+  display:block;
+  float:right;
+
 }
 
 li a{
@@ -63,7 +75,7 @@ li a{
 }
 
 #top a:hover, li a:hover{
-	color:#7876b7;
+	color:#ffcd3e;
 }
 
 li a:hover{
@@ -73,11 +85,11 @@ li a:hover{
 
 /* top half of page with the hello box */
 #top{
-	height:400px;
+	height:100vh;
 	background-color:#737373;
 	padding-top:250px;
 	border-bottom:solid;
-	border-color:#008080;
+	border-color:#ffcd3e;
 	background-image:url("images/pattern.svg");
 	background-size:cover;
 	background-repeat:no-repeat;
@@ -169,7 +181,7 @@ h1{
 	width:200px;
 	padding-top:25px;
 	right:20px;
-	
+
 }
 
 #images a:hover{
@@ -204,7 +216,7 @@ h1{
 
 #mask a{
 	padding-left:44px;
-	padding-right:43px;	
+	padding-right:43px;
 }
 
 

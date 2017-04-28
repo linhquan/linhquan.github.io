@@ -1,6 +1,6 @@
 ::-webkit-scrollbar
 {
-  width: 5px; 
+  width: 5px;
   height: 5px;
 }
 
@@ -63,7 +63,7 @@ li a{
 }
 
 #top a:hover, li a:hover{
-	color:#7876b7;
+	color:#ffcd3e;
 }
 
 li a:hover{
@@ -81,7 +81,7 @@ li a:hover{
 
 #about img{
 	width:300px;
-	height:auto; 
+	height:auto;
 	float:left;
 	padding-top:12px;
 	padding-left:20px;
