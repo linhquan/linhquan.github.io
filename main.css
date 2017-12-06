@@ -45,6 +45,7 @@ nav{
 	width:100%;
 	position:fixed;
 	top:0px;
+  z-index: 3;
 }
 
 #logo{
@@ -86,6 +87,7 @@ li a:hover{
 /* top half of page with the hello box */
 #top{
 	height:100vh;
+  margin-top:-30px;
 	background-color:#737373;
 	padding-top:250px;
 	border-bottom:solid;
@@ -126,7 +128,7 @@ h1{
 /* Code for the square images at homepage */
 #images{
 	width:800px;
-	height:580px;
+	height:100vh;
 	margin:auto;
 	padding-top:30px;
 }
@@ -153,7 +155,7 @@ h1{
 	text-decoration:none;
 	font-size:16pt;
 	color:white;
-	background-color:rgba(120, 118, 183, 0.5);
+	background-color:rgba(255, 205, 62, 0.5);
 	position:relative;
 	top:140px;
 	padding-top:112px;
@@ -166,7 +168,7 @@ h1{
 	text-decoration:none;
 	font-size:16pt;
 	color:white;
-	background-color:rgba(120, 118, 183, 0.7);
+	background-color:rgba(255, 205, 62, 0.7);
 	font-weight:bold;
 	position:relative;
 	top:140px;
