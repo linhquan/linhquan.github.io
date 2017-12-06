@@ -16,11 +16,19 @@ $name = $_POST['name']; // required
 $email = $_POST['email']; // required
 $response = $_POST['response']; // required
 
+function clean_string($string) {
+      $bad = array("content-type","bcc:","to:","cc:","href");
+      return str_replace($bad,"",$string);
+    }
+
+
 $txt .= "Name: ".clean_string($name)."\n";
 $txt .= "Email: ".clean_string($email)."\n";
 $txt .= "Message: ".clean_string($response)."\n";
 
 
 mail($to,$subject,$txt,$headers);
+/* Redirect visitor to the thank you page */
+header('Location: thanks.html');
 
 ?>
