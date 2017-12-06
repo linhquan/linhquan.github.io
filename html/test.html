@@ -134,13 +134,19 @@ body {font-family: Verdana,sans-serif;margin:0}
   <span class="dot" onclick="currentSlide(3)"></span>
 </div>
 
-<h3>Contact Me</h3>
+<!-- <h3>Contact Me</h3>
 <form id="my_form" method="post" action="mail.php">
   <p><input id="name" name="name" placeholder="Name" required></p>
   <p class="antispam">Leave this empty: <input type="text" name="url" /></p>
     <p><input id="email" name="email" placeholder="E-mail Address" required></p>
     <p><textarea id="reponse" name="response" placeholder="Write Your Message Here" rows="10" required></textarea></p>
     <p><input id="mybtn" type="submit" value="Send"><span id="status"></span></p>
+</form> -->
+<form method="POST" action="http://formspree.io/linh-quan@outlook.com">
+  <input type="name" name="name" placeholder="Your Name">
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
 </form>
 
 <script>
