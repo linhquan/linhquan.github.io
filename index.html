@@ -1,64 +1,160 @@
 <!DOCTYPE html>
+
 <html lang="en">
 
 <head>
-	<meta charset="UTF-8">
+  <meta charset="UTF-8">
 	<title>Linh Quan</title>
-	<link rel="stylesheet" href="main.css">
-	<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="style.css">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel='stylesheet' type='text/css'>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="script.js" type="text/javascript"></script>
 </head>
 
 <body>
-	<nav>
-	<div id="menutotal">
+  <nav>
 		<a href="index.html"><img src="images/logo.svg" alt="logo" id="logo"></a>
-	<ul id="menu">
-		<li><a href="html/about.html">ABOUT</a></li>
-		<li><a href="#images">PORTFOLIO</a></li>
-		<li><a href="index.html">HOME</a></li>
-	</ul>
-</div>
+		<ul>
+      <li><a href="#contact">Contact Me</a></li>
+			<li><a href="#about">About Me</a></li>
+      <li><a href="#splash">Portfolio</a></li>
+		</ul>
 	</nav>
 
-		<article id="top">
-			<h1>HELLO. I AM <a href="html/about.html">LINH.</a></h1>
-			<p>welcome to my <a href="#images"><span style="text-decoration:underline">portfolio.</span></a></p>
-		</article>
+<section id="splash">
 
-<section id="images">
+<article id="inprint_splash" class="worksplash fade">
+  <div id="inprinttitle">
+  <h2>InPrint Magazine: <br>First Impressions</h2>
+  <p>Layout Design, Visual Identity, Publication</p>
+</div>
+  <img src="images/inprint_cover2.jpg" alt="splash img" class="coverimg" width="950">
+</article>
 
-		<article id="careerfair">
-			<a href="html/dcf.html">Design Career Fair</a>
-			<img src="images/dcf.png" alt="dcf logo">
-		</article>
+<article id="itsaight_splash" class="worksplash fade">
+  <div id="itsaighttitle">
+  <h2>#itsaight Campaign</h2>
+  <p>Message Campaign, Photography, Visual Identity</p>
+</div>
+  <img src="images/itsaight_cover2.jpg" alt="splash img" class="coverimg" width="950">
+</article>
 
+<article id="dpf_splash" class="worksplash fade">
+  <div id="dpftitle">
+  <h2>Davis Pathfinder</h2>
+  <p>Signage, Visual Identity</p>
+</div>
+  <img src="images/dpf_cover2.jpg" alt="splash img" class="coverimg" width="950">
+</article>
 
-		<article id="asid">
-			<a href="html/asid.html">Associated Students<span id="asidid">of Interior Design</span></a>
-			<img src="images/asid.png" alt="asid">
-		</article>
+<article id="venture_splash" class="worksplash fade">
+  <div id="venturetitle">
+  <h2>Venture Companion App</h2>
+  <p>UI/UX, App Design</p>
+</div>
+  <img src="images/venture_cover2.jpg" alt="splash img" class="coverimg" width="950">
+</article>
 
-		<article id="app">
-			<a href="html/pawpal.html">Paw Pal</a>
-			<img src="images/pawpal.gif" alt="paw pal app">
-		</article>
+<article id="dcc_splash" class="worksplash fade">
+  <div id="dcctitle">
+  <h2>Design Careers Club Exhibition Team Lead</h2>
+  <p>Exhibition Design, Manual Construction</p>
+</div>
+  <img src="images/gta2.jpg" alt="splash img" class="coverimg" width="950">
+</article>
 
-		<article id="book">
-			<a href="html/book.html">Design Department Book</a>
-			<img src="images/book.gif" alt="design department book">
-		</article>
+<article id="mm_splash" class="worksplash fade">
+  <div id="mmtitle">
+  <h2>Meat Munchies</h2>
+  <p>Packaging, Visual Identity</p>
+</div>
+  <img src="images/mm_cover2.jpg" alt="splash img" class="coverimg" width="950">
+</article>
 
-
-		<article id="mask">
-			<a href="html/portraits.html">Masked Portraits</a>
-			<img src="images/mask.gif" alt="mask">
-		</article>
-
-
-		<article id="game">
-			<a href="html/game.html">The Game of DAVIS</a>
-			<img src="images/game.gif" alt="game">
-		</article>
 </section>
+
+
+<section id="smallsplash">
+<div id="thumbnails">
+
+  <a href="inprint.html" id="inprintthumb">
+  <img src="images/inprint_thumbnail.jpg" alt="thumbnail img" class="thumbnail" width="300">
+</a>
+
+<a href="itsaight.html" id="itsaightthumb">
+  <img src="images/itsaight_thumbnail.jpg" alt="thumbnail img" class="thumbnail" width="300">
+</a>
+
+<a href="dpf.html" id="dpfthumb">
+  <img src="images/dpf_thumbnail.jpg" alt="thumbnail img" class="thumbnail" width="300">
+</a>
+
+<a href="venture.html" id="venturethumb">
+  <img src="images/venture_thumbnail.jpg" alt="thumbnail img" class="thumbnail" width="300">
+</a>
+
+<a href="dcc.html"  id="dccthumb">
+  <img src="images/dcc_thumbnail.jpg" alt="thumbnail img" class="thumbnail" width="300">
+</a>
+
+<a href="mm.html"  id="mmthumb">
+  <img src="images/mm_thumbnail.jpg" alt="thumbnail img" class="thumbnail" width="300">
+</a>
+</div>
+</section>
+
+<section id="about">
+  <img src="images/me.jpg" alt="image of me" width=300>
+<article id="aboutme">
+  <h3>About Me</h3>
+  <div id="abouttext">
+  <p>Hello! My name is Linh (the h is silent) and I create things. </p>
+  <p>It all started when I ran out of art classes to take at my community college. I took some graphic design courses in order to finish the unit requirements for my Associates Degree in Art. In those courses, I learned so much about design and I fell in love. To pursue a career in design, I graduated with an Associates Degree in Graphic Design and continued my education at University of California, Davis pursue an education in design and earn a Bachelor’s Degree in Design. During my time in school, I learned how to work in a team, how to lead a team, and how to many mediums. Although I’m out of school, I know I still have a lot to learn.
+ </p>
+  <p>When I’m not designing, I’m either out exploring and traveling to new places, catching a movie at the theaters, browsing the web and looking at funny memes, or creating random things, such as <a href="#" class="textlink">this</a>. I love oil painting, doodling, cardigans, flannels, my dog (Bobo) and watching TV shows, movies, and YouTube.</p>
+  <p>Here are some things I live by:</p>
+  <ul>
+    <li>Practice makes perfect</li>
+    <li>We’re always learning and improving</li>
+    <li>Everybody makes mistakes</li>
+    <li>Functionality is the most important aspect of design</li>
+  </ul>
+</div>
+  <div id="find">
+  <h3>Find me at:</h3>
+  <ul>
+    <li><a href="https://www.linkedin.com/in/lnquan/">LinkedIn</a></li>
+    <li><a href="https://www.instagram.com/linh_creates/">Design Instagram</a></li>
+    <li><a href="https://www.instagram.com/guanx_/">Personal Instagram</a></li>
+    <li><a href="https://twitter.com/linh_creates">Twitter</a></li>
+  </ul>
+</div>
+  <!-- <p><a href="#">Click me for more projects!</a></p> -->
+
+  <!-- <img src="images/me.jpg" alt="image of me" width=300> -->
+
+<div id="contact">
+<h3>Send me a message:</h3>
+<!-- <form id="my_form" method="post" action="mail.php">
+  <p><input id="name" name="name" placeholder="Name" required></p>
+  <p class="antispam">Leave this empty: <input type="text" name="url" /></p>
+    <p><input id="email" name="email" placeholder="E-mail Address" required></p>
+    <p><textarea id="reponse" name="response" placeholder="Write Your Message Here" rows="10" required></textarea></p>
+    <p><input id="mybtn" type="submit" value="Send"><span id="status"></span></p>
+</form> -->
+
+<form method="POST" action="http://formspree.io/linh-quan@outlook.com">
+  <input type="text" name="name" placeholder="Your Name">
+  <input type="email" name="email" placeholder="Your Email">
+  <textarea name="message" placeholder="Your Message"></textarea>
+  <button type="submit">Send</button>
+</form>
+</div>
+</article>
+</section>
+
+<footer>
+  <p>Email: contact@linh-quan.com &emsp; | &emsp; Designed and coded by Linh Quan 💕</p>
+</footer>
 </body>
 </html>
