@@ -4,49 +4,101 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-html	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<html lang="en">$/;"	function	line:2
-head	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<head>$/;"	function	line:4
-meta	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<meta charset="UTF-8">$/;"	function	line:5
-title	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<title>Linh Quan<\/title>$/;"	function	line:6
-link	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<link rel="stylesheet" href="style.css">$/;"	function	line:7
-link	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<link href="https:\/\/fonts.googleapis.com\/css?family=Roboto:300,400,500,700" rel='stylesheet' type='text\/css'>$/;"	function	line:8
-script	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.2.1\/jquery.min.js"><\/script>$/;"	function	line:9
-style	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<style>$/;"	function	line:11
-body	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<body>$/;"	function	line:20
-nav	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<nav>$/;"	function	line:21
-a	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^		<a href="index.html"><img src="images\/logo.svg" alt="logo" id="logo"><\/a>$/;"	function	line:22
-ul	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^		<ul>$/;"	function	line:23
-li	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^			<li><a href="mm.html">Meat Munchies<\/a><\/li>$/;"	function	line:24
-li	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^			<li><a href="dcc.html">DCC Exhibits<\/a><\/li>$/;"	function	line:25
-li	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^			<li><a href="venture.html">Venture<\/a><\/li>$/;"	function	line:26
-li	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^			<li><a href="dpf.html">Davis Pathfinder<\/a><\/li>$/;"	function	line:27
-li	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^			<li><a href="itsaight.html">#itsaight<\/a><\/li>$/;"	function	line:28
-li	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^			<li><a href="inprint.html">InPrint<\/a><\/li>$/;"	function	line:29
-section	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<section id="title">$/;"	function	line:33
-div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<div class="titlecover"><img src="images\/dcf_article.jpg" alt="header image for this article" id="titlecover"><\/div>$/;"	function	line:34
-div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<div id="covertext">$/;"	function	line:35
-h	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<h1>Design Careers Club<\/h1>$/;"	function	line:36
-h	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<h3>Exhibition Design, Manual Construction, Team Management<\/h3>$/;"	function	line:37
-div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<div id="arrows">$/;"	function	line:39
-a	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<a href="venture.html"><img src="images\/backarrow.svg" alt="image for back arrow" id="leftarrow"><\/a>$/;"	function	line:40
-a	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<a href="mm.html"><img src="images\/nextarrow.svg" alt="image for next arrow" id="rightarrow"><\/a>$/;"	function	line:41
-article	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<article id="workarticle">$/;"	function	line:45
-div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<div id="proj">$/;"	function	line:46
-img	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<img src="images\/dcc\/img1.jpg" alt="image 1" width=600 class="smallimg" id="img1">$/;"	function	line:47
-p	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<p class="project">As the Exhibits Team Lead of the Design Careers Club at UC Davis for the 2016 – 2017 school year, I was responsible for producing two exhibits, one for Alumni Networking Day and one for Design Career Fair. While working under a tight budget, I led a team of designers to produce pieces for the club’s largest events.$/;"	function	line:48
-br	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<br><br>$/;"	function	line:49
-div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<div id="largeimg2">$/;"	function	line:54
-img	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<img src="images\/dcc\/img2.jpg" alt="image 6" width=950>$/;"	function	line:55
-div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<div id="dccsmallimg1">$/;"	function	line:57
-img	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<img src="images\/dcc\/img5.jpg" alt="image 4" width=600 class="smallimg">$/;"	function	line:58
-p	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<p class="dcc3p"> In the <a href="http:\/\/arts.ucdavis.edu\/event\/2nd-annual-alumni-networking-day" target="_blank">Alumni Networking Day<\/a> exhibit, the team created a series of “floating” frames featuring the speakers of the event. In the center of the exhibit, we created a photo booth area for the attendees and speakers to take photos with so the day can be captured and remembered. For this project, we collaborated with the graphics team for the illustrations on the photo booth and graphics inside the frames.$/;"	function	line:59
-div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<div id="largeimg">$/;"	function	line:63
-img	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<img src="images\/dcc\/img3.jpg" alt="image 3" width=950>$/;"	function	line:64
-div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<div id="smallimg2">$/;"	function	line:69
-img	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<img src="images\/dcc\/img4.jpg" alt="image 2" width=600 class="smallimg">$/;"	function	line:70
-div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<div id="smallimg4">$/;"	function	line:74
-img	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<img src="images\/dcc\/img6.jpg" alt="image 2" width=600 class="smallimg">$/;"	function	line:75
-div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<div id="dccsmallimg3">$/;"	function	line:80
-img	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<img src="images\/dcc\/img7.jpg" alt="image 4" width=600 class="smallimg">$/;"	function	line:81
-p	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<p class="dcc3p">The exhibit for <a href="http:\/\/arts.ucdavis.edu\/event\/3rd-annual-design-career-fair" target="_blank">Design Career Fair <\/a>was inspired by Lou Dorfsman’s Gastrotypographicalassamblage. In order to make the whole piece feel coherent, we limited the piece to have three typefaces, a serif, a slab serif, and a san-serif. The letters were laser cut from matte boards, hand kerned, glued onto pieces of cardboard with small supports to obtain a 3D effect. To finish this exhibit in time for the event, I hosted many work sessions during the weekend and I led team meetings to ensure we stayed on track.$/;"	function	line:82
-p	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<p>Want to see the magazine? <br>Contact me at <a href="mailto:contact@linh-quan.com">contact@linh-quan.com<\/a>!<\/p>$/;"	function	line:87
+html	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<html lang="en">$/;"	function	line:3
+head	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<head>$/;"	function	line:5
+meta	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <meta charset="UTF-8">$/;"	function	line:6
+title	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^	<title>Linh Quan<\/title>$/;"	function	line:7
+link	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^	<link rel="stylesheet" href="style.css">$/;"	function	line:8
+link	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^	<link href="https:\/\/fonts.googleapis.com\/css?family=Roboto:300,400,500,700" rel='stylesheet' type='text\/css'>$/;"	function	line:9
+script	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^	<script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.2.1\/jquery.min.js"><\/script>$/;"	function	line:10
+script	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^	<script src="script.js" type="text\/javascript"><\/script>$/;"	function	line:11
+meta	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <meta property="og:image" content="images\/venture_cover2.jpg">$/;"	function	line:12
+meta	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<meta property="og:image:type" content="image\/jpeg">$/;"	function	line:13
+meta	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<meta property="og:image:width" content="200">$/;"	function	line:14
+meta	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<meta property="og:image:height" content="200">$/;"	function	line:15
+body	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<body>$/;"	function	line:18
+nav	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <nav>$/;"	function	line:19
+a	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^		<a href="index.html"><img src="images\/logo.svg" alt="logo" id="logo"><\/a>$/;"	function	line:20
+ul	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^		<ul>$/;"	function	line:21
+li	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^      <li><a href="#contact">Contact Me<\/a><\/li>$/;"	function	line:22
+li	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^			<li><a href="#about">About Me<\/a><\/li>$/;"	function	line:23
+li	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^      <li><a href="#splash">Portfolio<\/a><\/li>$/;"	function	line:24
+section	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<section id="splash">$/;"	function	line:28
+article	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<article id="inprint_splash" class="worksplash fade">$/;"	function	line:30
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <div id="inprinttitle">$/;"	function	line:31
+h	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <h2>InPrint Magazine: <br>First Impressions<\/h2>$/;"	function	line:32
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <p>Layout Design, Visual Identity, Publication<\/p>$/;"	function	line:33
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <img src="images\/inprint_cover2.jpg" alt="splash img" class="coverimg" width="950">$/;"	function	line:35
+article	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<article id="itsaight_splash" class="worksplash fade">$/;"	function	line:38
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <div id="itsaighttitle">$/;"	function	line:39
+h	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <h2>#itsaight Campaign<\/h2>$/;"	function	line:40
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <p>Message Campaign, Photography, Visual Identity<\/p>$/;"	function	line:41
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <img src="images\/itsaight_cover2.jpg" alt="splash img" class="coverimg" width="950">$/;"	function	line:43
+article	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<article id="dpf_splash" class="worksplash fade">$/;"	function	line:46
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <div id="dpftitle">$/;"	function	line:47
+h	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <h2>Davis Pathfinder<\/h2>$/;"	function	line:48
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <p>Signage, Visual Identity<\/p>$/;"	function	line:49
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <img src="images\/dpf_cover2.jpg" alt="splash img" class="coverimg" width="950">$/;"	function	line:51
+article	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<article id="venture_splash" class="worksplash fade">$/;"	function	line:54
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <div id="venturetitle">$/;"	function	line:55
+h	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <h2>Venture Companion App<\/h2>$/;"	function	line:56
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <p>UI\/UX, App Design<\/p>$/;"	function	line:57
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <img src="images\/venture_cover2.jpg" alt="splash img" class="coverimg" width="950">$/;"	function	line:59
+article	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<article id="dcc_splash" class="worksplash fade">$/;"	function	line:62
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <div id="dcctitle">$/;"	function	line:63
+h	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <h2>Design Careers Club Exhibition Team Lead<\/h2>$/;"	function	line:64
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <p>Exhibition Design, Manual Construction<\/p>$/;"	function	line:65
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <img src="images\/GTA3.jpg" alt="splash img" class="coverimg" width="950">$/;"	function	line:67
+article	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<article id="mm_splash" class="worksplash fade">$/;"	function	line:70
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <div id="mmtitle">$/;"	function	line:71
+h	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <h2>Meat Munchies<\/h2>$/;"	function	line:72
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <p>Packaging, Visual Identity<\/p>$/;"	function	line:73
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <img src="images\/mm_cover2.jpg" alt="splash img" class="coverimg" width="950">$/;"	function	line:75
+section	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<section id="smallsplash">$/;"	function	line:81
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<div id="thumbnails">$/;"	function	line:82
+a	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <a href="inprint.html" id="inprintthumb">$/;"	function	line:84
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <img src="images\/inprint_thumbnail.jpg" alt="thumbnail img" class="thumbnail" width="300">$/;"	function	line:85
+a	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<a href="itsaight.html" id="itsaightthumb">$/;"	function	line:88
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <img src="images\/itsaight_thumbnail.jpg" alt="thumbnail img" class="thumbnail" width="300">$/;"	function	line:89
+a	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<a href="dpf.html" id="dpfthumb">$/;"	function	line:92
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <img src="images\/dpf_thumbnail.jpg" alt="thumbnail img" class="thumbnail" width="300">$/;"	function	line:93
+a	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<a href="venture.html" id="venturethumb">$/;"	function	line:96
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <img src="images\/venture_thumbnail.jpg" alt="thumbnail img" class="thumbnail" width="300">$/;"	function	line:97
+a	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<a href="dcc.html"  id="dccthumb">$/;"	function	line:100
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <img src="images\/dcc_thumbnail.jpg" alt="thumbnail img" class="thumbnail" width="300">$/;"	function	line:101
+a	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<a href="mm.html"  id="mmthumb">$/;"	function	line:104
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <img src="images\/mm_thumbnail.jpg" alt="thumbnail img" class="thumbnail" width="300">$/;"	function	line:105
+section	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<section id="about">$/;"	function	line:110
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <img src="images\/me.jpg" alt="image of me" width=300>$/;"	function	line:111
+article	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<article id="aboutme">$/;"	function	line:112
+h	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <h3>About Me<\/h3>$/;"	function	line:113
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <div id="abouttext">$/;"	function	line:114
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <p>Hello! My name is Linh (the h is silent) and I create things. <\/p>$/;"	function	line:115
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <p>It all started when I ran out of art classes to take at my community college. I took some graphic design courses in order to finish the unit requirements for my Associates Degree in Art. In those courses, I learned so much about design and I fell in love. To pursue a career in design, I graduated with an Associates Degree in Graphic Design and continued my education at University of California, Davis pursue an education in design and earn a Bachelor’s Degree in Design. During my time in school, I learned how to work in a team, how to lead a team, and how to design with a purpose.$/;"	function	line:116
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <p>When I’m not designing, I’m either out exploring and traveling to new places, catching a movie at the theaters, browsing the web and looking at funny memes, or creating random things, such as <a href="#" class="textlink">this<\/a>. I love oil painting, doodling, cardigans, flannels, my dog (Bobo) and watching TV shows, movies, and YouTube.<\/p>$/;"	function	line:118
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <p>Here are some things I live by:<\/p>$/;"	function	line:119
+ul	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <ul>$/;"	function	line:120
+li	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^    <li>Practice makes perfect<\/li>$/;"	function	line:121
+li	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^    <li>We’re always learning and improving<\/li>$/;"	function	line:122
+li	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^    <li>Everybody makes mistakes<\/li>$/;"	function	line:123
+li	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^    <li>Functionality is the most important aspect of design<\/li>$/;"	function	line:124
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <div id="find">$/;"	function	line:127
+h	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <h3>Find me at:<\/h3>$/;"	function	line:128
+ul	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <ul>$/;"	function	line:129
+li	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^    <li><a href="https:\/\/www.linkedin.com\/in\/lnquan\/">LinkedIn<\/a><\/li>$/;"	function	line:130
+li	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^    <li><a href="https:\/\/www.instagram.com\/linh_creates\/">Instagram<\/a><\/li>$/;"	function	line:131
+li	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^    <li><a href="https:\/\/twitter.com\/linh_creates">Twitter<\/a><\/li>$/;"	function	line:133
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<div id="contact">$/;"	function	line:140
+h	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<h3>Send me a message:<\/h3>$/;"	function	line:141
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <p><input id="name" name="name" placeholder="Name" required><\/p>$/;"	function	line:143
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <p class="antispam">Leave this empty: <input type="text" name="url" \/><\/p>$/;"	function	line:144
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^    <p><input id="email" name="email" placeholder="E-mail Address" required><\/p>$/;"	function	line:145
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^    <p><textarea id="reponse" name="response" placeholder="Write Your Message Here" rows="10" required><\/textarea><\/p>$/;"	function	line:146
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^    <p><input id="mybtn" type="submit" value="Send"><span id="status"><\/span><\/p>$/;"	function	line:147
+form	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<form method="POST" action="http:\/\/formspree.io\/linh-quan@outlook.com">$/;"	function	line:150
+input	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <input type="text" name="name" placeholder="Your Name">$/;"	function	line:151
+input	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <input type="email" name="email" placeholder="Your Email">$/;"	function	line:152
+textarea	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <textarea name="message" placeholder="Your Message"><\/textarea>$/;"	function	line:153
+button	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <button type="submit">Send<\/button>$/;"	function	line:154
+footer	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^<footer>$/;"	function	line:160
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/index.html	/^  <p>E-mail: contact@linh-quan.com &emsp; | &emsp; Designed and coded by Linh Quan 💕<\/p>$/;"	function	line:161
