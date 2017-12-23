@@ -1,0 +1,52 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+html	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<head>$/;"	function	line:4
+meta	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<meta charset="UTF-8">$/;"	function	line:5
+title	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<title>Linh Quan<\/title>$/;"	function	line:6
+link	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<link rel="stylesheet" href="style.css">$/;"	function	line:7
+link	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<link href="https:\/\/fonts.googleapis.com\/css?family=Roboto:300,400,500,700" rel='stylesheet' type='text\/css'>$/;"	function	line:8
+script	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.2.1\/jquery.min.js"><\/script>$/;"	function	line:9
+style	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<style>$/;"	function	line:11
+body	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<body>$/;"	function	line:20
+nav	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<nav>$/;"	function	line:21
+a	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^		<a href="index.html"><img src="images\/logo.svg" alt="logo" id="logo"><\/a>$/;"	function	line:22
+ul	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^		<ul>$/;"	function	line:23
+li	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^			<li><a href="mm.html">Meat Munchies<\/a><\/li>$/;"	function	line:24
+li	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^			<li><a href="dcc.html">DCC Exhibits<\/a><\/li>$/;"	function	line:25
+li	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^			<li><a href="venture.html">Venture<\/a><\/li>$/;"	function	line:26
+li	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^			<li><a href="dpf.html">Davis Pathfinder<\/a><\/li>$/;"	function	line:27
+li	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^			<li><a href="itsaight.html">#itsaight<\/a><\/li>$/;"	function	line:28
+li	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^			<li><a href="inprint.html">InPrint<\/a><\/li>$/;"	function	line:29
+section	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<section id="title">$/;"	function	line:33
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<div class="titlecover"><img src="images\/dcf_article.jpg" alt="header image for this article" id="titlecover"><\/div>$/;"	function	line:34
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<div id="covertext">$/;"	function	line:35
+h	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<h1>Design Careers Club<\/h1>$/;"	function	line:36
+h	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<h3>Exhibition Design, Manual Construction, Team Management<\/h3>$/;"	function	line:37
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<div id="arrows">$/;"	function	line:39
+a	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<a href="venture.html"><img src="images\/backarrow.svg" alt="image for back arrow" id="leftarrow"><\/a>$/;"	function	line:40
+a	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<a href="mm.html"><img src="images\/nextarrow.svg" alt="image for next arrow" id="rightarrow"><\/a>$/;"	function	line:41
+article	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<article id="workarticle">$/;"	function	line:45
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<div id="proj">$/;"	function	line:46
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<img src="images\/dcc\/img1.jpg" alt="image 1" width=600 class="smallimg" id="img1">$/;"	function	line:47
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<p class="project">As the Exhibits Team Lead of the Design Careers Club at UC Davis for the 2016 – 2017 school year, I was responsible for producing two exhibits, one for Alumni Networking Day and one for Design Career Fair. While working under a tight budget, I led a team of designers to produce pieces for the club’s largest events.$/;"	function	line:48
+br	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<br><br>$/;"	function	line:49
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<div id="largeimg2">$/;"	function	line:54
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<img src="images\/dcc\/img2.jpg" alt="image 6" width=950>$/;"	function	line:55
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<div id="dccsmallimg1">$/;"	function	line:57
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<img src="images\/dcc\/img5.jpg" alt="image 4" width=600 class="smallimg">$/;"	function	line:58
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<p class="dcc3p"> In the <a href="http:\/\/arts.ucdavis.edu\/event\/2nd-annual-alumni-networking-day" target="_blank">Alumni Networking Day<\/a> exhibit, the team created a series of “floating” frames featuring the speakers of the event. In the center of the exhibit, we created a photo booth area for the attendees and speakers to take photos with so the day can be captured and remembered. For this project, we collaborated with the graphics team for the illustrations on the photo booth and graphics inside the frames.$/;"	function	line:59
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<div id="largeimg">$/;"	function	line:63
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<img src="images\/dcc\/img3.jpg" alt="image 3" width=950>$/;"	function	line:64
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<div id="smallimg2">$/;"	function	line:69
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<img src="images\/dcc\/img4.jpg" alt="image 2" width=600 class="smallimg">$/;"	function	line:70
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<div id="smallimg4">$/;"	function	line:74
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<img src="images\/dcc\/img6.jpg" alt="image 2" width=600 class="smallimg">$/;"	function	line:75
+div	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^<div id="dccsmallimg3">$/;"	function	line:80
+img	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<img src="images\/dcc\/img7.jpg" alt="image 4" width=600 class="smallimg">$/;"	function	line:81
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<p class="dcc3p">The exhibit for <a href="http:\/\/arts.ucdavis.edu\/event\/3rd-annual-design-career-fair" target="_blank">Design Career Fair <\/a>was inspired by Lou Dorfsman’s Gastrotypographicalassamblage. In order to make the whole piece feel coherent, we limited the piece to have three typefaces, a serif, a slab serif, and a san-serif. The letters were laser cut from matte boards, hand kerned, glued onto pieces of cardboard with small supports to obtain a 3D effect. To finish this exhibit in time for the event, I hosted many work sessions during the weekend and I led team meetings to ensure we stayed on track.$/;"	function	line:82
+p	/Users/linhquan/Documents/Desktop/linhquan.github.io/dcc.html	/^	<p>Want to see the magazine? <br>Contact me at <a href="mailto:contact@linh-quan.com">contact@linh-quan.com<\/a>!<\/p>$/;"	function	line:87
