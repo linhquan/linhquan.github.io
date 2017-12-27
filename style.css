@@ -319,14 +319,37 @@ footer{
 }
 
 .thumbnail{
-	float:left;
-	padding:10px;
 	width:130px;
 }
+
 
 .antispam{
 	display:none;
 }
+
+.thumbs{
+	float:left;
+	padding:10px;
+}
+
+.click{
+	margin-top:0px;
+	position:absolute;
+	width:130px;
+	text-align: center;
+	line-height: 130px;
+	height:130px;
+	color:rgba(255, 205, 62, 1);
+	/*background-color:rgba(255, 205, 62, .5);*/
+	background-color: rgba(255, 255, 255, .9);
+	opacity: 0;
+}
+
+.click:hover{
+	opacity: 1;
+}
+
+
 
 /*
 =============================================
