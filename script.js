@@ -8,6 +8,13 @@ $(document).ready(function() {
     }, 800);
   });
 
+  // var cl = document.getElementsByClassName('click');
+  // var th = document.getElementsByClassName('thumbnail');
+  //
+  // cl.addEventListener('mouseover', function(){
+  //
+  // });
+
   inprintthumb.addEventListener('mouseover', function() {
     // time=1000000;
     // console.log("time changed 1000000");
