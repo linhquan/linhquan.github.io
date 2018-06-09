@@ -374,6 +374,7 @@ footer{
 	top:-180px;*/
 	margin-top:-180px;
 	overflow-x: hidden;
+	font-size:10pt;
 }
 
 .title, #title{
@@ -413,14 +414,15 @@ footer{
 }
 
 .title h1, #title h1{
-	font-size:35pt;
+	font-size:25pt;
 	padding-top:20px;
 }
 
 h3{
 	font-weight: normal;
-	font-size: 12pt;
-	margin-top:-40px;
+	font-size: 10pt;
+	margin-top:-30px;
+	margin-bottom:40px;
 }
 
 .covertext h3, #covertext h3{
