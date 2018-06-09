@@ -398,19 +398,24 @@ footer{
 	top:-270px;
 	margin:auto;
 	background-color: rgba(255,255,255,0.7);
-	width:500px;
+	width:430px;
+	margin-top:50px;
 }
 
-#incovertext, #dpfcovertext{
-	width:450px;
-}
-
-#mmcovertext{
+#incovertext{
 	width:400px;
 }
 
+#dpfcovertext{
+	width:350px;
+}
+
+#mmcovertext{
+	width:370px;
+}
+
 #vencovertext{
-	width:570px;
+	width:480px;
 }
 
 .title h1, #title h1{
@@ -422,7 +427,7 @@ h3{
 	font-weight: normal;
 	font-size: 10pt;
 	margin-top:-30px;
-	margin-bottom:40px;
+	margin-bottom:20px;
 }
 
 .covertext h3, #covertext h3{
