@@ -170,10 +170,11 @@ padding-top:50px;
 	/*float:left;*/
 	z-index: 1;
 	margin-top:-35px;
+	margin-left:20px;
 }
 
 #aboutme{
-	width:600px;
+	width:580px;
 	margin-left:50px; float:right;
 }
 
@@ -183,7 +184,7 @@ padding-top:50px;
 
 #abouttext{
 	font-size:11pt;
-	width:580px;
+	width:525px;
 }
 
 .textlink{
