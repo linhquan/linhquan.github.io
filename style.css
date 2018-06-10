@@ -161,6 +161,7 @@ section a:hover{
 
 #about{
 	width:950px;
+	height:460px;
 	margin:auto;
 z-index: 2;
 padding-top:0px;
@@ -229,7 +230,8 @@ form{
 
 input, textarea{
 	float:left;
-	width:480px;margin-bottom:20px;
+	width:480px;
+	margin-bottom:20px;
 	padding-left:20px;
 	font-family: 'Roboto', sans-serif;
 	font-size: 10pt;
@@ -265,6 +267,9 @@ button{
 	border-radius: 0;border:solid;
 	border-width:thin;
 	border-color:#e2e2e2;
+	width:80px;
+	position:relative;
+	left:45%;
 }
 
 /*===== Footer =======*/
