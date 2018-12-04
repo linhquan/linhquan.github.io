@@ -117,7 +117,7 @@ a:hover{
 }
 
 #inprinttitle, #dcctitle, #venturetitle, #dpftitle, #itsaighttitle, #mmtitle{
-	background-color:rgba(255, 255, 255, .7);
+	background-color:rgba(255, 255, 255, .9);
 	width:300px;
 	padding:0px 20px 10px 20px;
 	position:absolute;
@@ -170,12 +170,13 @@ padding-top:0px;
 #about img{
 	/*float:left;*/
 	z-index: 1;
-	margin-top:13px;
+	margin-top:63px;
 	margin-left:20px;
 }
 
 #aboutme{
 	width:580px;
+	margin-top:50px;
 	margin-left:50px; float:right;
 }
 
@@ -298,7 +299,7 @@ footer{
 	top:30px; left:0;
 }
 
-#itsaight_splash, #dpf_splash, #venture_splash, #dcc_splash, #mm_splash{
+#itsaight_splash, #inprint_splash, #venture_splash, #dcc_splash, #mm_splash{
 	display: none;
 }
 
@@ -306,7 +307,7 @@ footer{
 	width:950px;
 	margin:auto;
 	padding-top:580px;
-	padding-bottom:320px;
+	padding-bottom:280px;
 }
 
 /* Fading animation */
@@ -402,7 +403,7 @@ footer{
 	position: relative;
 	top:-270px;
 	margin:auto;
-	background-color: rgba(255,255,255,0.7);
+	background-color: rgba(255,255,255,0.9);
 	width:430px;
 	margin-top:50px;
 }
@@ -421,6 +422,14 @@ footer{
 
 #vencovertext{
 	width:480px;
+}
+
+#idealtext{
+	width:320px;
+}
+
+#instatext{
+	width:490px;
 }
 
 .title h1, #title h1{
@@ -465,7 +474,7 @@ h3{
 	width:450px;
 }
 
-#proj, #largeimg{
+#proj, #largeimg, .largeimg{
 	width:950px;
 }
 
@@ -474,10 +483,10 @@ h3{
 	height:320px;
 	float: left;
 	padding-left:50px;
-	padding-top:10px;
+	padding-top:30px;
 }
 
-#largeimg p{
+#largeimg p, .largeimg p{
 	margin-top:-40px;
 	/*margin-left:60px;*/
 	text-align: center;
@@ -491,11 +500,11 @@ h3{
 	float:left;
 }
 
-#smallimg1 img, #smallimg2, #smallimg3{
+#smallimg1 img, #smallimg2, #smallimg3, #smallimg4, #smallimg5{
 	float:left;
 }
 
-#smallimg2{
+#smallimg2, #smallimg4{
 	padding-right:50px;
 	padding-bottom:40px;
 }
@@ -613,3 +622,5 @@ h3{
 	margin-bottom:30px;
 	width:950px;
 }
+
+/*===== ideal =======*/

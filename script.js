@@ -97,6 +97,7 @@ var isOnDiv = false;
   document.getElementsByClassName("thumbnail").addEventListener("mouseenter", function(  ) {isOnDiv=true;});
 document.getElementsByClassName("thumbnail").addEventListener("mouseout", function(  ) {isOnDiv=false;});
 
+
 // if ( isOnDiv===false ) {
 //  showSlides();
 // } else {
