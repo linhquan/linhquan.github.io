@@ -624,3 +624,34 @@ h3{
 }
 
 /*===== ideal =======*/
+
+.pages h4{
+	text-align: center;
+	font-size:14pt;
+	position:relative;
+	width:950px;
+	padding-top:10px;
+}
+
+.pages ul{
+	margin:auto;
+	padding-left:0;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+.pages li{
+	list-style: none;
+	display:inline-block;
+	padding:0 15px 0 15px;
+}
+
+.pages li:hover, .pages li:active{
+	color:#ffcd3e;
+}
+
+.pagedesign{
+	position:absolute;
+	display:none;
+	margin-bottom:25px;
+}

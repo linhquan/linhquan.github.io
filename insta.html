@@ -12,79 +12,14 @@
 
 	<style>
 
-/* Slideshow container */
-.slideshow-container {
-  max-width: 1000px;
-  position: relative;
-  margin: auto;
+.instadesigns{
+	margin:auto;
+	display:none;
+	margin-bottom:25px;
 }
 
-/* Next & previous buttons */
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  padding: 16px;
-  margin-top: -22px;
-  color: white;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
-}
-
-/* Position the "next button" to the right */
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
-}
-
-/* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-
-/* The dots/bullets/indicators */
-.dot {
-  cursor: pointer;
-  height: 12px;
-  width: 12px;
-  margin: 0 4px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
-
-.active, .dot:hover {
-  background-color: #8A69AD;
-}
-
-#dots{
-	margin-top:-10px;
-	margin-bottom:55px;
-	margin-left:55px;
-}
-
-#slideshow{
-	z-index: 1;
-}
-
-#proj{
-	z-index: 2;
-	margin-bottom:355px;
+#in1{
+	display:block;
 }
 
 /* On smaller screens, decrease text size */
@@ -98,12 +33,12 @@
 	<nav>
 		<a href="index.html"><img src="images/logo.svg" alt="logo" id="logo"></a>
 		<ul>
-			<li><a href="mm.html">Meat Munchies</a></li>
 			<li><a href="dcc.html">DCC Exhibits</a></li>
 			<li><a href="venture.html">Venture</a></li>
-			<li><a href="dpf.html">Davis Pathfinder</a></li>
 			<li><a href="itsaight.html">#itsaight</a></li>
 			<li><a href="inprint.html">InPrint</a></li>
+			<li><a href="insta.html">InstaConnect</a></li>
+			<li><a href="ideal.html">Ideal Evolved</a></li>
 		</ul>
 	</nav>
 
@@ -115,15 +50,15 @@
 		<h3>UI/UX, Web Development</h3>
 	</div>
 		<div id="arrows">
-		<a href="dpf.html"><img src="images/backarrow.svg" alt="image for back arrow" id="leftarrow"></a>
-		<a href="dcc.html"><img src="images/nextarrow.svg" alt="image for next arrow" id="rightarrow"></a>
+		<a href="ideal.html"><img src="images/backarrow.svg" alt="image for back arrow" id="leftarrow"></a>
+		<a href="inprint.html"><img src="images/nextarrow.svg" alt="image for next arrow" id="rightarrow"></a>
 	</div>
 	</section>
 
 <article id="workarticle">
 	<div id="proj">
-	<a href="images/venture/venture_poster.pdf" target="_blank"><img src="images/venture/img2.jpg" alt="image 1" width=600 class="smallimg" id="img1"></a>
-	<p class="project">When traveling alone, people become an instant target to assault and robbery. To help prevent these incidents, Venture hopes to provide a companion to accompany solo travelers and a quick way to contact local authorities incase of any emergency. For the project, I researched and created a prototype for the app. To reach a wider audience, Venture was presented at the <a href="https://urc.ucdavis.edu/conference/files/URC_AbstractBook_2017.pdf" target="_blank">University of California, Davis’ Undergraduate Research Conference on April 28, 2017.</a> My project was exhibited in the <a href="http://arts.ucdavis.edu/exhibition/design-undergraduate-senior-showcase-2017" target="_blank">“Design Undergraduate Senior Showcase 2017”</a> hosted by the Design Museum at UC Davis. The image on the left is the poster exhibited at the showcase, click on the image to see the full poster.
+	<a href="http://instaconnect.net" target="_blank"><img src="images/insta/img2.jpg" alt="image 1" width=600 class="smallimg" id="img1"></a>
+	<p class="project">I designed and developed a responsive site for InstaConnect (view it <a href="http://instaconnect.net">here</a>). The client wanted a responsive single page website for their internet service, InstaConnect. I was given the content for the website and was tasked with designing and developing the webpage. For this, I learned some PHP, developed my knowledge of Javascript and JQuery and . One of the main challenged was making the webpage to look consistent between the desktop, tablet, and phone.
 </p>
 </div>
 
@@ -132,6 +67,24 @@
 	<!-- <p id="dpfdes">These are the 8 logos and colors we chose for each district of Davis. Each features a famous landmark of each district.
 </p> -->
 </div>
+
+<section class="pages">
+	<h4>The Website Designs</h4>
+<ul>
+	<li id="v1">Desktop View</li>
+	<li id="v2">Tablet View</li>
+	<li id="v3">Phone View</li>
+</ul>
+
+</section>
+
+<div id="sites">
+<img src="images/insta/img3.jpg" alt="webpage" width=950 class="instadesigns" id="in1">
+<img src="images/insta/img4.jpg" alt="webpage" width=600 class="instadesigns" id="in2">
+<img src="images/insta/img5.jpg" alt="webpage" width=300 class="instadesigns" id="in3">
+</div>
+
+
 
 <!-- <div id="dccsmallimg3">
 <img src="images/venture/img3.jpg" alt="image 1" width=600 class="smallimg" id="img4">
@@ -143,6 +96,33 @@
 </article>
 
 <script>
+v1.addEventListener('click', function() {
+	in1.style.display="block";
+	in2.style.display="none";
+	in3.style.display="none";
+});
+
+v2.addEventListener('click', function() {
+	in1.style.display="none";
+	in2.style.display="block";
+	in3.style.display="none";
+});
+
+v3.addEventListener('click', function() {
+	in1.style.display="none";
+	in2.style.display="none";
+	in3.style.display="block";
+});
+
+$('section div a').click(function(e) {
+	e.preventDefault();
+	var navHeight = $('nav').outerHeight();
+	var href = $(this).attr('href'); // #dcc, whatever is in the "href"
+	$('html, body').animate({
+			scrollTop: $(href).offset().top - navHeight // $(href) = $('#dcc')
+	}, 800);
+});
+
 </script>
 
 </body>
