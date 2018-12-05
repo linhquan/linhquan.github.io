@@ -25,6 +25,33 @@
 		#dpflarge{
 			margin-bottom:55px;
 		}
+
+		#protoimg{
+			float:right;
+		}
+
+		#p1{
+			margin-top:-30px;
+			display:none;
+		}
+
+		#p2, #p3{
+			margin-bottom:45px;
+		}
+
+		#p3{
+			display: none;
+		}
+
+		#pressimglg{
+			width:923px;
+			margin-left:10px;
+		}
+
+		.presimg{
+			margin:10px;
+		}
+
 	</style>
 </head>
 
@@ -70,7 +97,6 @@
 
 	<div id="dpfsmallimg4">
 		<img src="images/dpf/img3.jpg" alt="image 6" width=600 class="smallimg" id="itsmallimg">
-
 		<img src="images/dpf/img4.jpg" alt="image 6" width=600 class="smallimg">
 	</div>
 
@@ -80,8 +106,58 @@
 </p>
 	</div>
 
+	<section class="pages">
+		<h4>Final Designs and Prototypes</h4>
+		<ul>
+			<li id="v1">Process</li>
+			<li id="v2">Prototypes</li>
+			<li id="v3">Presentation</li>
+		</ul>
+		</section>
+
+<div id="p1">
+	<img src="images/dpf/p11.jpg" alt="image 2" width=400 class="postimg">
+	<img src="images/dpf/p12.jpg" alt="image 2" width=400 class="postimg post2">
+	<img src="images/dpf/p13.jpg" alt="image 2" width=400 class="postimg">
+</div>
+
+<div id="p2">
+	<img src="images/dpf/p21.jpg" alt="image 2" width=600>
+	<img src="images/dpf/p22.jpg" alt="image 2" width=300 id="protoimg">
+</div>
+
+<div id="p3">
+	<img src="images/dpf/p31.jpg" alt="image 2" width=950 id="pressimglg">
+	<img src="images/dpf/p32.jpg" alt="image 2" width=600 class="smallimg presimg">
+	<img src="images/dpf/p33.jpg" alt="image 2" width=600 class="smallimg presimg">
+	<img src="images/dpf/p34.jpg" alt="image 2" width=600 class="smallimg presimg">
+	<img src="images/dpf/p35.jpg" alt="image 2" width=600 class="smallimg presimg">
+</div>
+
 
 </article>
+
+<script>
+
+v1.addEventListener('click', function() {
+	p1.style.display="block";
+	p2.style.display="none";
+	p3.style.display="none";
+});
+
+v2.addEventListener('click', function() {
+	p1.style.display="none";
+	p2.style.display="block";
+	p3.style.display="none";
+});
+
+v3.addEventListener('click', function() {
+	p1.style.display="none";
+	p2.style.display="none";
+	p3.style.display="block";
+});
+
+</script>
 
 </body>
 </html>

@@ -114,15 +114,6 @@ v3.addEventListener('click', function() {
 	in3.style.display="block";
 });
 
-$('section div a').click(function(e) {
-	e.preventDefault();
-	var navHeight = $('nav').outerHeight();
-	var href = $(this).attr('href'); // #dcc, whatever is in the "href"
-	$('html, body').animate({
-			scrollTop: $(href).offset().top - navHeight // $(href) = $('#dcc')
-	}, 800);
-});
-
 </script>
 
 </body>
