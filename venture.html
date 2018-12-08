@@ -75,11 +75,11 @@
 #dots{
 	margin-top:-10px;
 	margin-bottom:55px;
-	margin-left:55px;
 }
 
 #slideshow{
 	z-index: 1;
+	margin-left:-25px;
 }
 
 #proj{
@@ -90,6 +90,44 @@
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
+}
+
+.page h4{
+	padding-top:0;
+}
+
+.pages ul{
+	padding-bottom:0px;
+}
+
+#dpflarge{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+#user{
+	position:absolute;
+	margin-top:30px;
+}
+
+#mood{
+	margin:auto;
+}
+
+.ven{
+	display:none;
+}
+
+#ven1, #ven2, #ven3{
+	margin-bottom:20px;
+}
+
+#ven3{
+	margin-top:20px;
+}
+
+#ven5{
+	margin-top:30px;
 }
 </style>
 </head>
@@ -127,8 +165,43 @@
 </p>
 </div>
 
-<br>
 
+<div id="dpflarge">
+	<img src="images/venture/graphics.svg" alt="image 3" width=950>
+	<!-- <p id="dpfdes">These are the 8 logos and colors we chose for each district of Davis. Each features a famous landmark of each district.
+</p> -->
+</div>
+
+<section class="pages" id="venpages">
+	<h4>Design Process</h4>
+<ul>
+	<li id="v1">Research and Audience</li>
+	<li id="v2">User Flow and Site Flow</li>
+	<li id="v3">Wireframes</li>
+	<li id="v4">Prototypes</li>
+	<li id="v5">Usertesting</li>
+</ul>
+</section>
+
+<div id="ven1" class="ven">
+	<img src="images/venture/comparative.png" alt="image 3" width=600 class="smallimg">
+	<img src="images/venture/user.png" alt="image 3" width=600 class="smallimg" id="user">
+	<h4>Moodboard</h4>
+	<img src="images/venture/moodboard.png" alt="image 3" width=900 id="mood">
+	</div>
+
+<div id="ven2" class="ven">
+	<h4>User Flow</h4>
+	<img src="images/venture/userflow.svg" alt="image 3" width=950>
+	<h4>Site Flow </h4>
+	<img src="images/venture/siteflow.svg" alt="image 3" width=950>
+	</div>
+
+<div id="ven3" class="ven">
+	<img src="images/venture/wireframes.svg" alt="image 3" width=950>
+	</div>
+
+<section id="ven4">
 <div id="slideshow" class="slideshow-container">
 <!-- <p>test </p> -->
 <div class="mySlides fade">
@@ -175,12 +248,13 @@
 	<span class="dot" onclick="currentSlide(5)"></span>
 </div>
 
-<div id="smallimg2">
-	<img src="images/venture/img10.jpg" alt="image 6" width=600 class="smallimg">
-</div>
 
-<div id="smallimg3">
-	<img src="images/venture/img9.jpg" alt="image 6" width=600 class="smallimg">
+
+</section>
+
+<div id="ven5" class="ven">
+	<img src="images/venture/img10.jpg" alt="image 6" width=600 class="smallimg" id="smallimg2">
+	<img src="images/venture/img9.jpg" alt="image 6" width=600 class="smallimg" id="smallimg3">
 </div>
 
 <div id="dccsmallimg3">
@@ -218,6 +292,46 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block";
   dots[slideIndex-1].className += " active";
 }
+
+v1.addEventListener('click', function() {
+	ven1.style.display="block";
+	ven2.style.display="none";
+	ven3.style.display="none";
+	ven4.style.display="none";
+	ven5.style.display="none";
+});
+
+v2.addEventListener('click', function() {
+	ven1.style.display="none";
+	ven2.style.display="block";
+	ven3.style.display="none";
+	ven4.style.display="none";
+	ven5.style.display="none";
+});
+
+v3.addEventListener('click', function() {
+	ven1.style.display="none";
+	ven2.style.display="none";
+	ven3.style.display="block";
+	ven4.style.display="none";
+	ven5.style.display="none";
+});
+
+v4.addEventListener('click', function() {
+	ven1.style.display="none";
+	ven2.style.display="none";
+	ven3.style.display="none";
+	ven4.style.display="block";
+	ven5.style.display="none";
+});
+
+v5.addEventListener('click', function() {
+	ven1.style.display="none";
+	ven2.style.display="none";
+	ven3.style.display="none";
+	ven4.style.display="none";
+	ven5.style.display="block";
+});
 </script>
 
 </body>
